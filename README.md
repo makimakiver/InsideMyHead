@@ -1,11 +1,17 @@
 # InsideMyHead
 
-I will write about how the world should be shaped based on history.
+I will write about how the world should be shaped based on history and My night mood
 
 ## 1: Formal Verification on modeling Intellectual PPT Adversary
 
+- 1.1 Why PPT Adversary may obsolete in the future
+- 1.2 What is lacking
+- 1.3 PPT vs Int_PPT
+
 ## 2: History of Breaking Hash
 
+- 2.1 SHA-1
+- Chinese Hash
 ## 3: Yutakar(Linear Algebra
 
 - 3.1: Yutaka's view point on Exotic Option market
@@ -27,14 +33,15 @@ I will write about how the world should be shaped based on history.
 - 2: MAC Scheme
 - 3: Commitment Scheme
 
-## 6: Position Based Cryptography(CPP)
+## 6: Position Based Cryptography
 
 - Position in crypto
 - Classic vs Quantum
 - Unclonability
+- Quantum Sailing
 
 ## 7: Astronomic ocean
 
 - astronomy and ocean might help the next gen cryptography
-- geometry and construction from geomatry
+- geometry and construction from astronomy
 - Adversarial model from ocean
